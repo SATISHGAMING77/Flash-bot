@@ -44,7 +44,7 @@ module.exports = {
           { name: '🔀 Shuffle', value: 'Shuffle the songs in queue' },
           { name: '📃 playlist', value: 'manage the playlists' }
         )
-        .setImage(` 
+        .setImage(`https://cdn.discordapp.com/attachments/1004341381784944703/1165201249331855380/RainbowLine.gif?ex=6623793a&is=6611043a&hm=96170975bb7456371c8bc2b12d721b978e141468b0eeab23e3e84f0698838e91&
 
       const basicCommandsEmbed = new EmbedBuilder()
         .setColor(client.config.embedColor)
